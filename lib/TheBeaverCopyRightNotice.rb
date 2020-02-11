@@ -1,6 +1,3 @@
 require "TheBeaverCopyRightNotice/version"
+require "TheBeaverCopyRightNotice/renderer"
 
-module TheBeaverCopyRightNotice
-  class Error < StandardError; end
-  # Your code goes here...
-end
